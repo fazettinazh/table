@@ -1,0 +1,21 @@
+table{
+    border: 1px solid;
+    text-align: center;
+}
+
+td{
+    border: 1px solid;
+}
+
+img{
+    width: 150px;
+    height: 200px;
+}
+
+button{
+    margin-top: 10px;
+}
+
+body{
+    background-color: #FFF5E4;
+}
